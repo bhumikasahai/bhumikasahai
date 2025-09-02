@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhumika Sahai</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ojasvix20&label=Profile%20views&color=0e75b6&style=flat" alt="ojasvix20" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=bhumikasahai&label=Profile%20views&color=0e75b6&style=flat" alt="bhumikasahai" /> </p>
 
 - 🔭 I’m currently building my skills in backend development.
   
@@ -22,8 +22,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhumikasahai&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-top: 20px;" />
   <br/>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumikasahai&count_private=true&theme=dark" alt="ojasvix20" style="margin-top: 20px;"/></p>
-<!--   <p><img align="center" src="https://streak-stats.demolab.com/?user=Ojasvix20" alt="ojasvix20" /></p> -->
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumikasahai&count_private=true&theme=dark" alt="bhumikasahai" style="margin-top: 20px;"/></p>
 </div>
 
 <h3 align="center" style="margin-top: 20px;">Connect with me:</h3>
