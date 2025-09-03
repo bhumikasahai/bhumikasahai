@@ -24,7 +24,7 @@
 
 | Top Languages | Streak Stats |
 |---------------|--------------|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojasvix20&show_icons=true&locale=en&layout=compact" alt="Top Languages"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojasvix20&count_private=true&theme=dark" alt="ojasvix20"/> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhumikasahai&show_icons=true&locale=en&layout=compact" alt="Top Languages"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumikasahai&count_private=true&theme=dark" alt="ojasvix20"/> |
 
 </div>
 
