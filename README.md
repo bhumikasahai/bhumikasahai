@@ -24,17 +24,17 @@
 
 | Top Languages | Streak Stats |
 |---------------|--------------|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhumikasahai&show_icons=true&locale=en&layout=compact" alt="Top Languages"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumikasahai&count_private=true&theme=dark" alt="ojasvix20"/> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhumikasahai&show_icons=true&locale=en&layout=compact" alt="Top Languages"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumikasahai&count_private=true&theme=dark" alt="bhumikasahai"/> |
 
 </div>
 
 <h3 align="center" style="margin-top: 20px;">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/bakshiojasvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bakshiojasvi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ojasvibakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ojasvibakshi" height="30" width="40" /></a>
-<a href="https://kaggle.com/ojasvibakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ojasvibakshi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ojasvi_bakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ojasvi_bakshi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ojasvibakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ojasvibakshi" height="30" width="40" /></a>
+<a href="https://twitter.com/bhumika_sa61562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhumika_sa61562" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhumikasahai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhumikasahai" height="30" width="40" /></a>
+<a href="https://kaggle.com/bhumikasahai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhumikasahai" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sahaibhumika04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahaibhumika04" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bhumika_sahai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhumika_sahai" height="30" width="40" /></a>
 </p>
 
 
