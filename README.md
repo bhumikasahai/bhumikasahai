@@ -83,9 +83,5 @@
 ---
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896" alt="Pixel Art Wallpaper Desktop Gif" />
-</p>
-
-<p align="center">
 <img src="https://raw.githubusercontent.com/bhumikasahai/bhumikasahai/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
