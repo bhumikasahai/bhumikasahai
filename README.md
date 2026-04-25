@@ -81,7 +81,3 @@
 </p>
 
 ---
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/bhumikasahai/bhumikasahai/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
